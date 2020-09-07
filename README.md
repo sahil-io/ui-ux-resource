@@ -12,3 +12,4 @@
 ## Courses
 
 * https://courses.theteamw.com/an-introduction-to-the-user-experience \[Free\]
+This overview course is taught by Susan Weinschenk, a respected scientist in the field of UX with a Ph.D. in psychology and over 30 years of experience as a behavioral psychologist.

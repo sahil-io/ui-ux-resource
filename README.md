@@ -17,3 +17,7 @@ This overview course is taught by Susan Weinschenk, a respected scientist in the
 ## Videos
 
 * [10 UX Challenges for the Next 25 Years (Jakob Nielsen Keynote)](https://www.youtube.com/watch?v=NvEmpLvtSTQ)
+
+## Glossary
+
+* https://ux.princeton.edu/learn-ux/ux-glossary

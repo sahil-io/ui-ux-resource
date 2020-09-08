@@ -4,6 +4,7 @@
 ## Articles
 
 * [TOP 10 Most Interesting UX Design Case Studies To Inspire Your Service Reinvention In 2018](https://medium.muz.li/top-10-most-interesting-ux-design-case-studies-to-inspire-your-service-reinvention-in-2018-ea2309e4104b)
+- [The Difference Between UX And UI, And How They Relate To Each Other](https://medium.com/@ethanryan/the-difference-between-ux-and-ui-and-how-they-relate-to-each-other-19db0cd3ed3c)
 
 ## Bookmarkable Links
 

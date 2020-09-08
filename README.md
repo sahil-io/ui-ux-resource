@@ -17,7 +17,7 @@ This overview course is taught by Susan Weinschenk, a respected scientist in the
 ## Videos
 
 * [10 UX Challenges for the Next 25 Years (Jakob Nielsen Keynote)](https://www.youtube.com/watch?v=NvEmpLvtSTQ)
-* [Margaret Gould Stewart: How giant websites design for you (and a billion others, too) | TED Talk (https://www.ted.com/talks/margaret_gould_stewart_how_giant_websites_design_for_you_and_a_billion_others_too?language=en)
+* [Margaret Gould Stewart: How giant websites design for you (and a billion others, too) | TED Talk] (https://www.ted.com/talks/margaret_gould_stewart_how_giant_websites_design_for_you_and_a_billion_others_too?language=en)
 
 ## Glossary
 

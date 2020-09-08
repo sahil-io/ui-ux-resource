@@ -13,3 +13,7 @@
 
 * https://courses.theteamw.com/an-introduction-to-the-user-experience \[Free\]
 This overview course is taught by Susan Weinschenk, a respected scientist in the field of UX with a Ph.D. in psychology and over 30 years of experience as a behavioral psychologist.
+
+## Videos
+
+* [10 UX Challenges for the Next 25 Years (Jakob Nielsen Keynote)](https://www.youtube.com/watch?v=NvEmpLvtSTQ)

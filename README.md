@@ -21,3 +21,9 @@ This overview course is taught by Susan Weinschenk, a respected scientist in the
 ## Glossary
 
 * https://ux.princeton.edu/learn-ux/ux-glossary
+
+## Books
+
+- [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879)
+  - by William Lidwell  (Author), Kritina Holden (Author), Jill Butler (Author)
+- [Don’t Make Me Think by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1)

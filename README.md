@@ -1,5 +1,6 @@
 # UI/UX Resources
 
+"The paradox of choice: You make people happier not by giving them more options but by stripping away as many as you can."
 
 ## Articles
 
